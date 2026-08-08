@@ -53,15 +53,15 @@ Foram desenvolvidos indicadores e visualizações para permitir a análise do de
 
 ### Desempenho por seção
 
-![Vendas por seção](images/vendas-por-secao.png)
+![Vendas por seção](images/vendas_por_secao.png)
 
 ### Top 6 produtos
 
-![Top Produtos](images/top-produtos.png)
+![Top Produtos](images/top_produtos.png)
 
 ### Evolução das vendas
 
-![Evolução das vendas](images/evolucao-vendas.png)
+![Evolução das vendas](images/evolucao_vendas.png)
 
 ## 📂 Estrutura do projeto
 
